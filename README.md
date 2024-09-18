@@ -13,6 +13,12 @@
 
 With MindBodyReminder, students can seamlessly navigate their academic and personal needs, enhancing their overall college experience.
 
+## Screenshots
+
+Here’s a preview of what the app looks like:
+
+![image](https://github.com/user-attachments/assets/0e914f02-27a5-4ecd-a4e7-194a23688ce4)
+
 ## Installation
 
 To get started with MindBodyReminder, follow these steps:
