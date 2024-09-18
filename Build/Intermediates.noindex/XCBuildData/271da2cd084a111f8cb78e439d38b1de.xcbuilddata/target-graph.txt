@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Target 'MindBodyReminder MindBodyReminder MindBodyReminder' in project 'MindBodyReminder MindBodyReminder MindBodyReminder'
+➜ Explicit dependency on target 'Lottie' in project 'Lottie'
+Target 'Lottie' in project 'Lottie'
+➜ Explicit dependency on target 'Lottie' in project 'Lottie'
+➜ Explicit dependency on target 'Lottie_Lottie' in project 'Lottie'
+Target 'Lottie' in project 'Lottie'
+➜ Explicit dependency on target 'Lottie_Lottie' in project 'Lottie'
+Target 'Lottie_Lottie' in project 'Lottie' (no dependencies)

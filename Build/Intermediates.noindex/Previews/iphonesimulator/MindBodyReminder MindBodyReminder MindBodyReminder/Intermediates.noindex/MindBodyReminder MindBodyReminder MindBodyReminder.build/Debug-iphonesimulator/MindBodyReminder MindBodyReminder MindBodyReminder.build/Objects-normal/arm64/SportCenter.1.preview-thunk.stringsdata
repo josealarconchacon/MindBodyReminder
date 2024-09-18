@@ -1,0 +1,20 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Intermediates.noindex/MindBodyReminder MindBodyReminder MindBodyReminder.build/Debug-iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder.build/Objects-normal/arm64/SportCenter.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sports"
+      },
+      {
+        "comment": "",
+        "key": "No booking URL available"
+      },
+      {
+        "comment": "",
+        "key": "Reserve Now"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,28 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Task/AddEditReminderView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add Reminder"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Description"
+      },
+      {
+        "comment": "",
+        "key": "Priority"
+      },
+      {
+        "comment": "",
+        "key": "Date"
+      }
+    ]
+  },
+  "version": 1
+}

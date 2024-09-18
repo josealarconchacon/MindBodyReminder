@@ -1,0 +1,16 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Tutoring/CalendarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Available Dates",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      }
+    ]
+  },
+  "version": 1
+}

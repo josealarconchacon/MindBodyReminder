@@ -1,0 +1,16 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/LoginRegistration/LoginSignupView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Don't have an account? Sign Up"
+      },
+      {
+        "comment": "",
+        "key": "Already have an account? Login"
+      }
+    ]
+  },
+  "version": 1
+}

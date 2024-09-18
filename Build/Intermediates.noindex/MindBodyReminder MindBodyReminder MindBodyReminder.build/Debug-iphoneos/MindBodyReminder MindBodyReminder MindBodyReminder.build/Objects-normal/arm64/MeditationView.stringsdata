@@ -1,0 +1,16 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Wellness/MeditationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Breathing"
+      },
+      {
+        "comment": "",
+        "key": "Start Breathing Exercise"
+      }
+    ]
+  },
+  "version": 1
+}

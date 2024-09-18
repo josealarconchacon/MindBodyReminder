@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "buildDescriptionID" : "081f10e491f363e33020c42c0b0d5bbb",
+  "configuredTargets" : [
+    {
+      "guid" : "eb0775fc91c9b96c4999cfb7cf5d7c9b892e098324c3d4780e3f20b52e9e3730"
+    }
+  ],
+  "containerPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Products",
+      "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad16,4-A",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad16,4-A",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "CEB657DD-AEB8-4E34-9A39-9F06E02F8967",
+          "TARGET_DEVICE_MODEL" : "iPad16,4",
+          "TARGET_DEVICE_OS_VERSION" : "18.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

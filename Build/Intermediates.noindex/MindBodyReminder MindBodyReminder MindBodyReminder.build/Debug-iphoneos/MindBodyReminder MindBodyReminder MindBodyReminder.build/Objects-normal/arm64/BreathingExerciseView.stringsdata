@@ -1,0 +1,40 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Wellness/BreathingExerciseView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld seconds remaining"
+      },
+      {
+        "comment": "",
+        "key": "Select Breathing Duration"
+      },
+      {
+        "comment": "",
+        "key": "15 seconds"
+      },
+      {
+        "comment": "",
+        "key": "25 seconds"
+      },
+      {
+        "comment": "",
+        "key": "35 seconds"
+      },
+      {
+        "comment": "",
+        "key": "45 seconds"
+      },
+      {
+        "comment": "",
+        "key": "Stop Breathing"
+      },
+      {
+        "comment": "",
+        "key": "Start Breathing"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,157 @@
+{
+  "majors": [
+    {
+      "name": "Computer Science",
+      "description": "The Computer Science major provides students with a strong foundation in programming, algorithms, data structures, and computer systems.",
+      "classes": [
+        {
+          "courseCode": "CS101",
+          "courseName": "Introduction to Computer Science",
+          "instructor": "Dr. Smith",
+          "schedule": "Monday/Wednesday/Friday 10:00 AM - 11:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS202",
+          "courseName": "Data Structures and Algorithms",
+          "instructor": "Prof. Johnson",
+          "schedule": "Tuesday/Thursday 1:00 PM - 2:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS320",
+          "courseName": "Computer Networks",
+          "instructor": "Prof. Lee",
+          "schedule": "Monday/Wednesday 9:00 AM - 10:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS210",
+          "courseName": "Introduction to Software Engineering",
+          "instructor": "Dr. Patel",
+          "schedule": "Tuesday/Thursday 10:00 AM - 11:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS220",
+          "courseName": "Database Management Systems",
+          "instructor": "Prof. Nguyen",
+          "schedule": "Monday/Wednesday/Friday 11:00 AM - 12:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS330",
+          "courseName": "Operating Systems",
+          "instructor": "Dr. Kim",
+          "schedule": "Monday/Wednesday 2:00 PM - 3:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "CS410",
+          "courseName": "Artificial Intelligence",
+          "instructor": "Dr. Gupta",
+          "schedule": "Tuesday/Thursday 3:00 PM - 4:30 PM",
+          "semestersOffered": ["Spring"]
+        },
+        {
+          "courseCode": "CS350",
+          "courseName": "Web Development",
+          "instructor": "Prof. Hernandez",
+          "schedule": "Tuesday/Thursday 9:00 AM - 10:30 AM",
+          "semestersOffered": ["Fall"]
+        },
+        {
+          "courseCode": "CS440",
+          "courseName": "Cybersecurity",
+          "instructor": "Dr. Smith",
+          "schedule": "Monday/Wednesday/Friday 3:00 PM - 4:30 PM",
+          "semestersOffered": ["Fall"]
+        },
+        {
+          "courseCode": "CS360",
+          "courseName": "Mobile App Development",
+          "instructor": "Prof. Patel",
+          "schedule": "Monday/Wednesday 1:00 PM - 2:30 PM",
+          "semestersOffered": ["Spring"]
+        }
+
+      ]
+    },
+    {
+      "name": "Business Administration",
+      "description": "The Business Administration major offers courses in accounting, finance, marketing, management, and entrepreneurship.",
+      "classes": [
+        {
+          "courseCode": "BUS101",
+          "courseName": "Principles of Management",
+          "instructor": "Dr. Lee",
+          "schedule": "Monday/Wednesday 9:00 AM - 10:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "BUS202",
+          "courseName": "Financial Accounting",
+          "instructor": "Prof. Martinez",
+          "schedule": "Tuesday/Thursday 10:00 AM - 11:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "BA210",
+          "courseName": "Managerial Accounting",
+          "instructor": "Dr. Miller",
+          "schedule": "Tuesday/Thursday 10:00 AM - 11:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "BA320",
+          "courseName": "Marketing Management",
+          "instructor": "Prof. Martinez",
+          "schedule": "Monday/Wednesday 1:00 PM - 2:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "BA320",
+          "courseName": "Marketing Management",
+          "instructor": "Prof. Martinez",
+          "schedule": "Monday/Wednesday 1:00 PM - 2:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        }
+      ]
+    },
+    {
+      "name": "Nursing",
+      "description": "The Nursing major prepares students for careers in healthcare, with courses in anatomy, physiology, pharmacology, and clinical practice.",
+      "classes": [
+        {
+          "courseCode": "NUR101",
+          "courseName": "Anatomy and Physiology",
+          "instructor": "Dr. Rodriguez",
+          "schedule": "Monday/Wednesday/Friday 8:00 AM - 9:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "NURS201",
+          "courseName": "Pharmacology for Nurses",
+          "instructor": "Prof. Martinez",
+          "schedule": "Tuesday/Thursday 10:00 AM - 11:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "NUR202",
+          "courseName": "Pharmacology",
+          "instructor": "Prof. Thompson",
+          "schedule": "Tuesday/Thursday 9:00 AM - 10:30 AM",
+          "semestersOffered": ["Spring", "Fall"]
+        },
+        {
+          "courseCode": "NURS320",
+          "courseName": "Maternal and Child Health Nursing",
+          "instructor": "Dr. Smith",
+          "schedule": "Monday/Wednesday 3:00 PM - 4:30 PM",
+          "semestersOffered": ["Spring", "Fall"]
+        }
+      ]
+    }
+  ]
+}
+

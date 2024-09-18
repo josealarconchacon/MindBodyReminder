@@ -1,0 +1,32 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Sport/SportCenter.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sports",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "No booking URL available",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Learn More",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}

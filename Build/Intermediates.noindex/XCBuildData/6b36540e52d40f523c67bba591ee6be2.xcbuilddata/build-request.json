@@ -1,0 +1,201 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "eb0775fc91c9b96c4999cfb7cf5d7c9b892e098324c3d4780e3f20b52e9e3730",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Products",
+          "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad16,6-A",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Intermediates.noindex",
+              "SYMROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "15E6FAE7-579D-4530-8725-16CBACB2FD9F",
+              "TARGET_DEVICE_MODEL" : "iPad16,6",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:Lottie",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Products",
+          "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad16,6-A",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Intermediates.noindex",
+              "SYMROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "15E6FAE7-579D-4530-8725-16CBACB2FD9F",
+              "TARGET_DEVICE_MODEL" : "iPad16,6",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PACKAGE-TARGET:Lottie",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Products",
+          "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad16,6-A",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Intermediates.noindex",
+              "SYMROOT" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/Previews/iphonesimulator/MindBodyReminder MindBodyReminder MindBodyReminder/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "15E6FAE7-579D-4530-8725-16CBACB2FD9F",
+              "TARGET_DEVICE_MODEL" : "iPad16,6",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Products",
+      "derivedDataPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josealarconchacon/Library/Developer/Xcode/DerivedData/MindBodyReminder_MindBodyReminder_MindBodyReminder-djvlektqseidodgbyolqactypjzr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad16,6-A",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad16,6-A",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "15E6FAE7-579D-4530-8725-16CBACB2FD9F",
+          "TARGET_DEVICE_MODEL" : "iPad16,6",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

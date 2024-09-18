@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAlice</string>
+			<key>relativePath</key>
+			<string>./alice.imageset</string>
+			<key>swiftSymbol</key>
+			<string>alice</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameBob2</string>
+			<key>relativePath</key>
+			<string>./bob2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>bob2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameDavid</string>
+			<key>relativePath</key>
+			<string>./david.imageset</string>
+			<key>swiftSymbol</key>
+			<string>david</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameEmily1</string>
+			<key>relativePath</key>
+			<string>./emily1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>emily1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameExercise</string>
+			<key>relativePath</key>
+			<string>./exercise.imageset</string>
+			<key>swiftSymbol</key>
+			<string>exercise</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameExercise12</string>
+			<key>relativePath</key>
+			<string>./exercise12.imageset</string>
+			<key>swiftSymbol</key>
+			<string>exercise12</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameExercise12322122</string>
+			<key>relativePath</key>
+			<string>./exercise12322122.imageset</string>
+			<key>swiftSymbol</key>
+			<string>exercise12322122</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8AddFolder94</string>
+			<key>relativePath</key>
+			<string>./icons8-add-folder-94.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8AddFolder94</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8Class94</string>
+			<key>relativePath</key>
+			<string>./icons8-class-94.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8Class94</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8Contest96</string>
+			<key>relativePath</key>
+			<string>./icons8-contest-96.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8Contest96</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8Mindfulness64</string>
+			<key>relativePath</key>
+			<string>./icons8-mindfulness-64.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8Mindfulness64</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8Resource64</string>
+			<key>relativePath</key>
+			<string>./icons8-resource-64.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8Resource64</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIcons8Tutor64</string>
+			<key>relativePath</key>
+			<string>./icons8-tutor-64.imageset</string>
+			<key>swiftSymbol</key>
+			<string>icons8Tutor64</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIstock</string>
+			<key>relativePath</key>
+			<string>./istock.imageset</string>
+			<key>swiftSymbol</key>
+			<string>istock</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameJane</string>
+			<key>relativePath</key>
+			<string>./jane.imageset</string>
+			<key>swiftSymbol</key>
+			<string>jane</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameJohn</string>
+			<key>relativePath</key>
+			<string>./john.imageset</string>
+			<key>swiftSymbol</key>
+			<string>john</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMichael</string>
+			<key>relativePath</key>
+			<string>./michael.imageset</string>
+			<key>swiftSymbol</key>
+			<string>michael</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNamePool</string>
+			<key>relativePath</key>
+			<string>./pool.imageset</string>
+			<key>swiftSymbol</key>
+			<string>pool</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameRunrun</string>
+			<key>relativePath</key>
+			<string>./runrun.imageset</string>
+			<key>swiftSymbol</key>
+			<string>runrun</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSamantha</string>
+			<key>relativePath</key>
+			<string>./samantha.imageset</string>
+			<key>swiftSymbol</key>
+			<string>samantha</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameShutterstock</string>
+			<key>relativePath</key>
+			<string>./shutterstock.imageset</string>
+			<key>swiftSymbol</key>
+			<string>shutterstock</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

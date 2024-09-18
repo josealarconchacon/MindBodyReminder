@@ -1,0 +1,24 @@
+{
+  "source": "/Users/josealarconchacon/Dropbox/MindBodyReminder MindBodyReminder MindBodyReminder/MindBodyReminder MindBodyReminder MindBodyReminder/View/Resources/StudentResources.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Resources",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "View All Resources",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 57
+        }
+      }
+    ]
+  },
+  "version": 1
+}
